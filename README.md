@@ -1,7 +1,7 @@
 <h1 align="center">Neiki CLI</h1>
 
 <p align="center">
-  <img src="preview.png" alt="neiki" width="400">
+  <img src="logo.png" alt="neiki" width="400">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APT-Auto--Install-brightgreen?style=flat-square" alt="Auto Install">
+  <img src="https://img.shields.io/badge/Auto--Install-Dependencies-brightgreen?style=flat-square" alt="Auto Install">
   <img src="https://img.shields.io/badge/Commands-30+-blue?style=flat-square" alt="30+ Commands">
   <img src="https://img.shields.io/badge/Zero_Config-✔-success?style=flat-square" alt="Zero Config">
 </p>
