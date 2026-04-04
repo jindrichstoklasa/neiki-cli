@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 # ============================================================================
-# neiki - All-in-One Linux Productivity CLI Tool
-# Compatible with Debian & Ubuntu
-# https://github.com/neiki-cli
+# neiki - Neiki CLI
+# All-in-One Linux Productivity CLI Tool
+# https://github.com/jindrichstoklasa/neiki-cli
+# Version: 1.0.0
+# License: MIT
 # ============================================================================
 
 set -euo pipefail
