@@ -3,13 +3,13 @@
 # neiki - Neiki CLI
 # All-in-One Linux Productivity CLI Tool
 # https://github.com/jindrichstoklasa/neiki-cli
-# Version: 1.0.0
+# Version: 1.0.1
 # License: MIT
 # ============================================================================
 
 set -euo pipefail
 
-VERSION="1.0.0"
+VERSION="1.0.1"
 SCRIPT_NAME="neiki"
 
 # Colors

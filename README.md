@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Debian-✓-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/Ubuntu-✓-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semantic-release&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/Linux-FFCC33?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Debian-CE0058?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <br>
+  <img src="https://img.shields.io/badge/Language-Bash-2563EB?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000F15&logoWidth=20" alt="Bash">
+  <img src="https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=000F15&logoWidth=20" alt="License">
+  <img src="https://img.shields.io/badge/Version -1.0.1-2563EB?style=for-the-badge&logo=semantic-release&logoColor=white&labelColor=000F15&logoWidth=20" alt="Version">
 </p>
 
 <p align="center">
@@ -19,9 +20,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Auto--Install-Dependencies-brightgreen?style=flat-square" alt="Auto Install">
-  <img src="https://img.shields.io/badge/Commands-30+-blue?style=flat-square" alt="30+ Commands">
-  <img src="https://img.shields.io/badge/Zero_Config-✔-success?style=flat-square" alt="Zero Config">
+  <img src="https://img.shields.io/badge/Commands-30%2B-3b82f6?style=flat&labelColor=383C43" />
+  <img src="https://img.shields.io/badge/Features-System%20Tools-8b5cf6?style=flat&labelColor=383C43" />
+  <img src="https://img.shields.io/badge/Setup-Auto%20Install-22c55e?style=flat&labelColor=383C43" />
+  <img src="https://img.shields.io/badge/Extras-Zero%20Config-f97316?style=flat&labelColor=383C43" />
 </p>
 
 ---
