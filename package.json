@@ -1,0 +1,42 @@
+{
+  "name": "neiki-cli",
+  "version": "1.0.1",
+  "description": "All-in-One Linux productivity CLI tool with 30+ commands for system management, networking, services, and deployment.",
+  "keywords": [
+    "cli",
+    "linux",
+    "ubuntu",
+    "debian",
+    "devops",
+    "system",
+    "networking",
+    "deployment",
+    "automation"
+  ],
+  "homepage": "https://github.com/neikiri/neiki-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neikiri/neiki-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neikiri/neiki-cli/issues"
+  },
+  "license": "MIT",
+  "author": "neikiri <dev@neiki.eu>",
+  "type": "commonjs",
+  "bin": {
+    "neiki": "neiki"
+  },
+  "files": [
+    "neiki",
+    "install.sh",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "postinstall": "chmod +x neiki || true"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
