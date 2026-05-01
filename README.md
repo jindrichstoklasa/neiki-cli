@@ -1,8 +1,8 @@
-<h1 align="center">Neiki CLI</h1>
-
 <p align="center">
   <img src="logo.png" alt="neiki" width="400">
 </p>
+
+<h1 align="center">Neiki CLI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FFCC33?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
